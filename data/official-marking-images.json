@@ -1,0 +1,353 @@
+{
+ "meta": {
+  "sourceUrl": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2525.docx",
+  "authority": "Верховна Рада України, додаток 2 до ПДР",
+  "sourceSha256": "52b0bc637b833237b7e0cdf2636843c06545466e772f5fc934bb4445294b69cd",
+  "downloadedAt": "2026-11-12T09:39:13.917601+00:00",
+  "license": "CC BY 4.0 official legislation",
+  "note": "Original source document graphics without inferred individual marking-code assignments. Verify later amendments on the official source."
+ },
+ "images": [
+  {
+   "id": "horizontal-1",
+   "type": "horizontal",
+   "number": 1,
+   "url": "/official-markings/horizontal-01.png",
+   "originalMedia": "word/media/image1.png",
+   "width": 680,
+   "height": 394,
+   "sha256": "21bce9e6c81084f0d1b4dcf34c69b57ebd7dbc097c4680057a9cf26634504b6b",
+   "caption": "Горизонтальна розмітка — ілюстрація 1 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-2",
+   "type": "horizontal",
+   "number": 2,
+   "url": "/official-markings/horizontal-02.png",
+   "originalMedia": "word/media/image2.png",
+   "width": 655,
+   "height": 169,
+   "sha256": "f6d1da509cb237063e4c761802e7bd5099361b7a130b03866b0cb70ce29d802b",
+   "caption": "Горизонтальна розмітка — ілюстрація 2 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-3",
+   "type": "horizontal",
+   "number": 3,
+   "url": "/official-markings/horizontal-03.png",
+   "originalMedia": "word/media/image3.png",
+   "width": 1263,
+   "height": 429,
+   "sha256": "0667677ad0b7cddcabe442f872a1aebd8bb877e2afa427efc121d476d10f4c50",
+   "caption": "Горизонтальна розмітка — ілюстрація 3 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-4",
+   "type": "horizontal",
+   "number": 4,
+   "url": "/official-markings/horizontal-04.png",
+   "originalMedia": "word/media/image4.png",
+   "width": 866,
+   "height": 320,
+   "sha256": "7957ddddac779dfe0e0d9f9ba020263f9035a11dfaa6cf904e1f9d2f6888679b",
+   "caption": "Горизонтальна розмітка — ілюстрація 4 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-5",
+   "type": "horizontal",
+   "number": 5,
+   "url": "/official-markings/horizontal-05.jpg",
+   "originalMedia": "word/media/image5.jpeg",
+   "width": 584,
+   "height": 159,
+   "sha256": "712735b49a19e5a07b9bd3a9108edf62c8ce9088f6924b71bed4e71f0a42c600",
+   "caption": "Горизонтальна розмітка — ілюстрація 5 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-6",
+   "type": "horizontal",
+   "number": 6,
+   "url": "/official-markings/horizontal-06.png",
+   "originalMedia": "word/media/image6.png",
+   "width": 525,
+   "height": 564,
+   "sha256": "743a24bdba6cae5851428bc0d1daa9b075ffd96855647c4e020c5a371ea877d8",
+   "caption": "Горизонтальна розмітка — ілюстрація 6 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-7",
+   "type": "horizontal",
+   "number": 7,
+   "url": "/official-markings/horizontal-07.png",
+   "originalMedia": "word/media/image7.png",
+   "width": 1120,
+   "height": 483,
+   "sha256": "afb382af842b0af715a670044e451a091476d2758dad72bb2982aeec817ca3e5",
+   "caption": "Горизонтальна розмітка — ілюстрація 7 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-8",
+   "type": "horizontal",
+   "number": 8,
+   "url": "/official-markings/horizontal-08.jpg",
+   "originalMedia": "word/media/image8.jpeg",
+   "width": 872,
+   "height": 462,
+   "sha256": "b6db9836a10d9a3ba7d5f4d8e0831090ef01ac391e62f236f83de01a4712633d",
+   "caption": "Горизонтальна розмітка — ілюстрація 8 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-9",
+   "type": "horizontal",
+   "number": 9,
+   "url": "/official-markings/horizontal-09.png",
+   "originalMedia": "word/media/image9.png",
+   "width": 525,
+   "height": 569,
+   "sha256": "e8f12c8ee0308e3d060dcd02dd4c1a269e2591f63e55efc566175c6409d9d9d2",
+   "caption": "Горизонтальна розмітка — ілюстрація 9 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-10",
+   "type": "horizontal",
+   "number": 10,
+   "url": "/official-markings/horizontal-10.png",
+   "originalMedia": "word/media/image10.png",
+   "width": 480,
+   "height": 409,
+   "sha256": "7641bd327478f08fe619d4ce2e4c665948f94ba3c99c5b2bb167150b50ac75ad",
+   "caption": "Горизонтальна розмітка — ілюстрація 10 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-11",
+   "type": "horizontal",
+   "number": 11,
+   "url": "/official-markings/horizontal-11.png",
+   "originalMedia": "word/media/image11.png",
+   "width": 476,
+   "height": 836,
+   "sha256": "bb3e33386fe53e9a4f660d390c94d5f6e3c1a073838e99ef6f9ff94a2e3b0679",
+   "caption": "Горизонтальна розмітка — ілюстрація 11 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-12",
+   "type": "horizontal",
+   "number": 12,
+   "url": "/official-markings/horizontal-12.png",
+   "originalMedia": "word/media/image12.png",
+   "width": 320,
+   "height": 753,
+   "sha256": "b6bdc9e55861f2b184fd11a72e13aa486a97aa1bf1259edc19dafeb41e1d6dc8",
+   "caption": "Горизонтальна розмітка — ілюстрація 12 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-13",
+   "type": "horizontal",
+   "number": 13,
+   "url": "/official-markings/horizontal-13.png",
+   "originalMedia": "word/media/image13.png",
+   "width": 671,
+   "height": 227,
+   "sha256": "32f39d4c8ff730bc7ba71f69053bf10cdb0bd506f177b34f0898369a1b7204e5",
+   "caption": "Горизонтальна розмітка — ілюстрація 13 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-14",
+   "type": "horizontal",
+   "number": 14,
+   "url": "/official-markings/horizontal-14.png",
+   "originalMedia": "word/media/image14.png",
+   "width": 776,
+   "height": 366,
+   "sha256": "5115a822459809825c83e4d808e39078c5c0268140519fb650e2093859f5859a",
+   "caption": "Горизонтальна розмітка — ілюстрація 14 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-15",
+   "type": "horizontal",
+   "number": 15,
+   "url": "/official-markings/horizontal-15.png",
+   "originalMedia": "word/media/image15.png",
+   "width": 466,
+   "height": 305,
+   "sha256": "b05a87a8121ccc1193200272a973f467a94c85b4a7266aa55d63e3791211a096",
+   "caption": "Горизонтальна розмітка — ілюстрація 15 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-16",
+   "type": "horizontal",
+   "number": 16,
+   "url": "/official-markings/horizontal-16.png",
+   "originalMedia": "word/media/image16.png",
+   "width": 813,
+   "height": 251,
+   "sha256": "c09b92f6172ca7492587a8269251f28f003e8150a2ade831bcf36fad0df0449b",
+   "caption": "Горизонтальна розмітка — ілюстрація 16 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-17",
+   "type": "horizontal",
+   "number": 17,
+   "url": "/official-markings/horizontal-17.png",
+   "originalMedia": "word/media/image17.png",
+   "width": 640,
+   "height": 595,
+   "sha256": "bd89d0ec08eea6e42996bf9595e47f8b17a1bd557fb94d090f27a838f76e9294",
+   "caption": "Горизонтальна розмітка — ілюстрація 17 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-18",
+   "type": "horizontal",
+   "number": 18,
+   "url": "/official-markings/horizontal-18.png",
+   "originalMedia": "word/media/image18.png",
+   "width": 649,
+   "height": 264,
+   "sha256": "4709faaf7af4031cbc1990447bc00a636af2222d2fd9fcfd1b30fed73962ad29",
+   "caption": "Горизонтальна розмітка — ілюстрація 18 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-19",
+   "type": "horizontal",
+   "number": 19,
+   "url": "/official-markings/horizontal-19.png",
+   "originalMedia": "word/media/image19.png",
+   "width": 798,
+   "height": 460,
+   "sha256": "d9e7d9e80eee5baaf46431170e9d351c5737e844647b7e36d094ab07dfed8c01",
+   "caption": "Горизонтальна розмітка — ілюстрація 19 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-20",
+   "type": "horizontal",
+   "number": 20,
+   "url": "/official-markings/horizontal-20.png",
+   "originalMedia": "word/media/image20.png",
+   "width": 716,
+   "height": 274,
+   "sha256": "e6bdb237b1a1f17ba7f6fa57cffab5a904440d351a36884dac86d5b713bd5c65",
+   "caption": "Горизонтальна розмітка — ілюстрація 20 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-21",
+   "type": "horizontal",
+   "number": 21,
+   "url": "/official-markings/horizontal-21.png",
+   "originalMedia": "word/media/image21.png",
+   "width": 1100,
+   "height": 592,
+   "sha256": "af78fb5c0ee350224a57bafd25e9e157e4ca6672a8848420bccfdbb4140f387c",
+   "caption": "Горизонтальна розмітка — ілюстрація 21 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-22",
+   "type": "horizontal",
+   "number": 22,
+   "url": "/official-markings/horizontal-22.png",
+   "originalMedia": "word/media/image22.png",
+   "width": 1122,
+   "height": 406,
+   "sha256": "847e1a6b95b5343360a9956c1d1501af8f0e95599242173e390f3cf3cb867bde",
+   "caption": "Горизонтальна розмітка — ілюстрація 22 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-23",
+   "type": "horizontal",
+   "number": 23,
+   "url": "/official-markings/horizontal-23.jpg",
+   "originalMedia": "word/media/image23.jpeg",
+   "width": 878,
+   "height": 384,
+   "sha256": "35e2e1882f9aadf83e415d1a5df35fbf28d778adff2e28063719a339e5f764ed",
+   "caption": "Горизонтальна розмітка — ілюстрація 23 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-24",
+   "type": "horizontal",
+   "number": 24,
+   "url": "/official-markings/horizontal-24.png",
+   "originalMedia": "word/media/image24.png",
+   "width": 905,
+   "height": 409,
+   "sha256": "b2ae88edc31b3a9a1662b3b415f9c2a593b7faa57922dddc7739891fc31f595e",
+   "caption": "Горизонтальна розмітка — ілюстрація 24 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-25",
+   "type": "horizontal",
+   "number": 25,
+   "url": "/official-markings/horizontal-25.png",
+   "originalMedia": "word/media/image25.png",
+   "width": 874,
+   "height": 527,
+   "sha256": "a1bd3fd94703e5623c34305614e1c137ab87c71f99d92ec4b86e805960750785",
+   "caption": "Горизонтальна розмітка — ілюстрація 25 з офіційного додатка 2"
+  },
+  {
+   "id": "horizontal-26",
+   "type": "horizontal",
+   "number": 26,
+   "url": "/official-markings/horizontal-26.png",
+   "originalMedia": "word/media/image26.png",
+   "width": 795,
+   "height": 321,
+   "sha256": "d41849c739647029761552a54c1a7d79a09b7edd94993e76fc057a0b1e21a5c4",
+   "caption": "Горизонтальна розмітка — ілюстрація 26 з офіційного додатка 2"
+  },
+  {
+   "id": "vertical-1",
+   "type": "vertical",
+   "number": 1,
+   "url": "/official-markings/vertical-01.png",
+   "originalMedia": "word/media/image27.png",
+   "width": 715,
+   "height": 224,
+   "sha256": "3425244d55d94e4a7ee8951e3b3b2c8a4c9739db1c09f95898beee4d628c0de5",
+   "caption": "Вертикальна розмітка — ілюстрація 1 з офіційного додатка 2"
+  },
+  {
+   "id": "vertical-2",
+   "type": "vertical",
+   "number": 2,
+   "url": "/official-markings/vertical-02.png",
+   "originalMedia": "word/media/image28.png",
+   "width": 700,
+   "height": 235,
+   "sha256": "ba433880082f03a9465e98c0821e46ea9b219af2bfa488df5edb4d674d8b35c5",
+   "caption": "Вертикальна розмітка — ілюстрація 2 з офіційного додатка 2"
+  },
+  {
+   "id": "vertical-3",
+   "type": "vertical",
+   "number": 3,
+   "url": "/official-markings/vertical-03.png",
+   "originalMedia": "word/media/image29.png",
+   "width": 988,
+   "height": 293,
+   "sha256": "8273c19a932d4c6f0e56387fb00b63058a46582a62d0972798a2697fae2a468d",
+   "caption": "Вертикальна розмітка — ілюстрація 3 з офіційного додатка 2"
+  },
+  {
+   "id": "vertical-4",
+   "type": "vertical",
+   "number": 4,
+   "url": "/official-markings/vertical-04.png",
+   "originalMedia": "word/media/image30.png",
+   "width": 892,
+   "height": 257,
+   "sha256": "b62d7e38bc8cfcf2fc3d46a70e8a544f08a6d40a706a8707786eb03d4d20a556",
+   "caption": "Вертикальна розмітка — ілюстрація 4 з офіційного додатка 2"
+  },
+  {
+   "id": "vertical-5",
+   "type": "vertical",
+   "number": 5,
+   "url": "/official-markings/vertical-05.png",
+   "originalMedia": "word/media/image31.png",
+   "width": 541,
+   "height": 216,
+   "sha256": "d8ea8dccd489e2260c1a4115c36a48ad24c859821cf3da08e2455b1b90913963",
+   "caption": "Вертикальна розмітка — ілюстрація 5 з офіційного додатка 2"
+  }
+ ]
+}
